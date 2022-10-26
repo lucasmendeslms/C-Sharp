@@ -1,0 +1,8 @@
+C:\Users\lucas\OneDrive\Documentos\Projetos\C#\ControleDeAnimais\ControleDeAnimais\bin\Debug\ControleDeAnimais.exe.config
+C:\Users\lucas\OneDrive\Documentos\Projetos\C#\ControleDeAnimais\ControleDeAnimais\bin\Debug\ControleDeAnimais.exe
+C:\Users\lucas\OneDrive\Documentos\Projetos\C#\ControleDeAnimais\ControleDeAnimais\bin\Debug\ControleDeAnimais.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos\C#\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos\C#\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos\C#\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos\C#\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.exe
+C:\Users\lucas\OneDrive\Documentos\Projetos\C#\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.pdb
