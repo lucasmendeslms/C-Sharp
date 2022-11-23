@@ -45,14 +45,14 @@ namespace MaiorIdade
             }
         }
 
-        private String _ofAge;
+        private String _underage;
 
-        public String OfAge
+        public String Underage
         {
             get
             {
                 this.CalculateAge();
-                return this._ofAge;
+                return this._underage;
             }
         }
 
@@ -74,12 +74,12 @@ namespace MaiorIdade
 
             if (this._age >= 18)
             {
-                this._ofAge = $"{this.Name} é maior de idade";
+                this._underage = $"{this.Name} é maior de idade";
             } 
             
             else
             {
-                this._ofAge = "";
+                this._underage = "";
             }
 
         }
@@ -103,7 +103,7 @@ namespace MaiorIdade
             Console.WriteLine($"Data de aniversário: {this.BirthDate.ToShortDateString()}");
             Console.WriteLine($"Idade: {this.Age}");
             Console.WriteLine(this.IsBirthDay);
-            Console.WriteLine(this.OfAge);
+            Console.WriteLine(this.Underage);
         }
 
     }
