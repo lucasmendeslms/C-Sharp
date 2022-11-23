@@ -10,13 +10,13 @@ namespace MaiorIdade
     {
         public Person() { }
 
-        DateTime date = DateTime.Now;
-
         public Person(String name, DateTime birthDate)
         {
             this.Name = name;
             this.BirthDate = birthDate;
         }
+
+        DateTime date = DateTime.Now;
 
         private String _name;
 
