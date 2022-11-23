@@ -8,7 +8,10 @@ namespace MaiorIdade
 {
     public class Person
     {
-        public Person() { }
+        public Person()
+        {
+            this.Name = "";
+        }
 
         public Person(String name, DateTime birthDate)
         {
